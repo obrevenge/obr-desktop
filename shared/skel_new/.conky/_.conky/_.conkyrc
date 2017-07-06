@@ -58,16 +58,6 @@ lua_load /home/didisoft/.conky/lua.lua
 own_window_argb_value 0
 own_window_argb_visual yes
 TEXT
-${image /usr/share/Icons/obr-logo-sm.png}
-
-
-
-
-
-
-
-
-
 ${color2}${goto 10}${font DejaVu Sans Mono:size=44}${time %H}${font DejaVu Sans Mono:size=20}${voffset -25}'${time %M}${font DejaVu Sans Mono:size=8}${voffset -12}${time %S}
 ${color2}${goto 85}${voffset 10}${font :size=8}${time %A}
 ${color2}${goto 85}${voffset 1}${font :size=8}${time %d %B %Y}

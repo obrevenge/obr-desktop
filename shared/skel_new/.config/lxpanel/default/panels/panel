@@ -29,7 +29,7 @@ Plugin {
 Plugin {
   type=menu
   Config {
-    image=/usr/share/Icons/obr-logo-sm.png
+    image=/usr/share/Icons/revenge_logo.png
     system {
     }
     separator {

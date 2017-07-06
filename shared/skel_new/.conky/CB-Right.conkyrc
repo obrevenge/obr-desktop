@@ -134,14 +134,7 @@ double_buffer yes
 update_interval 1
 
 TEXT
-${image /usr/share/Icons/obr-logo-sm.png}
-
-
-
-
-
-
-${alignc}O B R E V E N G E  O S
+${alignc}R E V E N G E  O S
 ${alignc}S Y S T E M    I N F O
 ${hr}
 Host:${alignr}${nodename}
