@@ -19,13 +19,13 @@
 screenlayout.sh &
 xfce4-panel &
 nm-applet &
-pnmixer &
+volumeicon &
 nitrogen --restore &
-/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+/usr/bin/lxpolkit &
 xfce4-power-manager &
 parcellite &
 sh ~/.conky/conky-startup.sh &
-mate-notification-daemon &
+dunst &
 postinstall.sh &
 xbindkeys &
 compton -b &
